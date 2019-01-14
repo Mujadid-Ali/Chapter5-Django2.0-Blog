@@ -1,0 +1,46 @@
+h1 a, h2 a {
+    color: #C25100;
+}
+
+/* static/css/base.css */
+/*
+body {
+background-color:coral
+font-family: 'Source Sans Pro', sans-serif;
+font-size: px;
+}
+header {
+border-bottom: px solid # ;
+margin-bottom: rem;
+display: flex;
+}
+header h1 a {
+color: red;
+text-decoration: none;
+}
+.nav-left {
+margin-right: auto;
+}
+.nav-right {
+display: flex;
+padding-top: rem;
+}
+.post-entry {
+margin-bottom: rem;
+}
+.post-entry h2 {
+margin: . rem ;
+}
+.post-entry h2 a,
+.post-entry h2 a:visited {
+color: blue;
+text-decoration: none;
+}
+.post-entry p {
+margin: ;
+Chapter 5: Blog app 116
+font-weight: ;
+}
+.post-entry h2 a:hover {
+color: coral;
+}
